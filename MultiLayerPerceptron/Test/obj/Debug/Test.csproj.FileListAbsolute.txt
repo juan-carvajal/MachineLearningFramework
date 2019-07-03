@@ -1,0 +1,13 @@
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\Test.exe.config
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\Test.exe
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\Test.pdb
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\BasicMultilayerPerceptron.dll
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\BasicMultilayerPerceptron.pdb
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\obj\Debug\Test.exe
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\obj\Debug\Test.pdb
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\xortrain.txt
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\mnist.txt
+C:\Users\juan0\source\repos\MultiLayerPerceptron\Test\bin\Debug\mnist2.txt
